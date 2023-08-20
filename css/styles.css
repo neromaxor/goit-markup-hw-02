@@ -124,9 +124,11 @@ body {
         line-height: 1.5;
         letter-spacing: 0.02em;
 }
-.section-two{
-            background-color: #FFF;
+.section-two {
+    background-color: #FFF;
 }
+
+
 /*section 3*/
 .section-team{
     background-color: #F4F4FD;
