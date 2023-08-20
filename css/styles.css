@@ -14,7 +14,6 @@ body {
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4D5AE5;
@@ -23,12 +22,11 @@ body {
 
 .alogo {
     color: #2e2f42;
-    font-family: Raleway;
+    font-family: "Raleway";
     font-size: 18px;
     font-style: normal;
     font-weight: 700;
     line-height: 1.17;
-    /* 116.667% */
     letter-spacing: 0.03em;
     text-transform: uppercase;
 }
@@ -45,28 +43,26 @@ body {
 }
 
 .manu-nav {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
     font-weight: 500;
     line-height: 1.5;
-    /* 150% */
+
     letter-spacing: 0.02em;
 }
 
 .link {
-    font-family: Roboto;
+    font-family: "Roboto";
     font-size: 16px;
-    ;
     font-weight: 500;
     line-height: 1.5;
-    /* 150% */
     letter-spacing: 0.02em;
     color: #2e2f42;
     list-style-type: none;
     text-decoration: none;
 }
 
-.addressa-email {
+.address-email {
     color: #434455;
 }
 
