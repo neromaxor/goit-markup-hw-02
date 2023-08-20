@@ -1,16 +1,5 @@
 
-
-
-
-
-/*Для всіх кнопок щоб долоню показувало на кнопці
-button{
-    cursor: pointer;
-}*/
-/*Верхня шапка назви Head
-head {
-    display: none;
-}*/
+/*Для всіх кнопок щоб долоню показувало на кнопці*/
 body {
     font-family: 'Roboto', sans-serif;
     color: #434455;
